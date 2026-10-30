@@ -7,3 +7,10 @@
   
 <p align=center>
 <img width="598" height="1027" alt="pz gh readme" src="https://github.com/user-attachments/assets/3ca579ca-f88d-416c-9782-5bebc692fddd" />
+
+<b />
+<p align=center>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77FAE&width=435&lines=call+me+vanilla+%5E_%5E" alt="Typing SVG" /></a>
+  
+<p align=center>
+<img width="1040" height="251" alt="pz gh banner 2" src="https://github.com/user-attachments/assets/9609f158-c2d0-4dc2-9f77-e59ff62138a0" />
